@@ -1,0 +1,6 @@
+﻿  pch.cpp
+c:\users\thanhphuc\desktop\18120225\bai5.2\pch.cpp(8): warning C4101: 'i': unreferenced local variable
+c:\users\thanhphuc\desktop\18120225\bai5.2\pch.cpp(39): warning C4101: 'j': unreferenced local variable
+c:\users\thanhphuc\desktop\18120225\bai5.2\pch.cpp(39): warning C4101: 'i': unreferenced local variable
+  Bai5.2.cpp
+  Bai5.2.vcxproj -> C:\Users\ThanhPhuc\Desktop\18120225\x64\Debug\Bai5.2.exe
